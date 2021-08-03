@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "kb0k2P+LLkbgWTGqdr4XQqVMgaz7w4yQbtetLtMC+4GVXXogtvjboKTY1ffatQNzSK7swtdWEK6qVDqoW1TN3g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jcwal\\Development\\Test\\StrategyDemo\\ConsoleApp1\\ConsoleApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jcwal\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\5.0.2\\microsoft.extensions.dependencyinjection.5.0.2.nupkg.sha512",
+    "C:\\Users\\jcwal\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
