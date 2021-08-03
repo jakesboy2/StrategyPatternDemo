@@ -1,12 +1,11 @@
 ﻿using ConsoleApp1.Providers;
 using ConsoleApp1.Repositories;
 using System.Linq;
-
 using System.Collections.Generic;
 using System.Collections.Immutable;
 using System;
 
-namespace ConsoleApp1
+namespace ConsoleApp1.Factories
 {
     public class RoleProviderFactory : IRoleProviderFactory
     {

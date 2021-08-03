@@ -1,6 +1,7 @@
 ﻿using ConsoleApp1.Repositories;
 using Microsoft.Extensions.DependencyInjection;
 using System;
+using ConsoleApp1.Factories;
 
 namespace ConsoleApp1
 {
